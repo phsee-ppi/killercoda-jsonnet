@@ -10,7 +10,7 @@
       "host01": [
         {"file": "jsonnet", "target": "/usr/local/bin", "chmod": "+x"},
         {"file": "vscode-jsonnet-0.3.3.vsix", "target": "~/"},
-        {"file": "examples/*.*", "target": "~/examples"}
+        {"file": "examples/cocktails.jsonnet", "target": "~/examples"}
       ]
     }
   },
