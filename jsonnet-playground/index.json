@@ -1,6 +1,6 @@
 {
-  "title": "Jsonnet basics",
-  "description": "Jsonnet basics",
+  "title": "Jsonnet playground",
+  "description": "Jsonnet playground using the jrsonnet implementation",
   "details": {
     "intro": {
       "foreground": "foreground.sh",
