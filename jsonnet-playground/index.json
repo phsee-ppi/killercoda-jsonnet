@@ -7,6 +7,9 @@
       "background": "background.sh",
       "text": "intro.md"
     },
+    "steps": [
+      {"text": "step1.md"}
+    ],
     "assets": {
       "host01": [
         {"file": "jsonnet", "target": "/usr/local/bin", "chmod": "+x"},
