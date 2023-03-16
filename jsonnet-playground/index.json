@@ -4,7 +4,8 @@
   "details": {
     "intro": {
       "foreground": "foreground.sh",
-      "background": "background.sh"
+      "background": "background.sh",
+      "text": "intro.md"
     },
     "assets": {
       "host01": [
