@@ -10,4 +10,6 @@ Now open `output.json` and check out the result.
 Jsonnet can also output directly to YAML (which is just a superset of JSON anyways).
 
 To try this with the same input, run
-`jsonnet -o output.json examples/variables.jsonnet`{{exec}}
+`jsonnet -o output.yaml -f yaml examples/variables.jsonnet`{{exec}}
+
+Check out `output.yaml` to see the generated output.
