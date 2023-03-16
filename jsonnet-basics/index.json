@@ -1,0 +1,16 @@
+{
+  "title": "Jsonnet basics",
+  "description": "Jsonnet basics",
+  "details": {
+    "intro": {
+      "foreground": "foreground.sh",
+      "background": "background.sh"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "interface": {
+    "layout": "ide"
+  }
+}
