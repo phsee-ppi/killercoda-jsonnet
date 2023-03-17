@@ -14,6 +14,7 @@
       "host01": [
         {"file": "jsonnet", "target": "/usr/local/bin", "chmod": "+x"},
         {"file": "vscode-jsonnet-0.3.3.vsix", "target": "~/"},
+        {"file": "Sebbia.jsonnetng-1.3.0.vsix", "target": "~/"},
         {"file": "examples/*.*", "target": "~/"}
       ]
     }
